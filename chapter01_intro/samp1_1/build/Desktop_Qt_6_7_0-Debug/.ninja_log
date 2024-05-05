@@ -1,9 +1,0 @@
-# ninja log v5
-1	508	1714922162539322644	samp1_1_autogen/timestamp	b7f13b1be8328172
-1	508	1714922162539322644	samp1_1_autogen/mocs_compilation.cpp	b7f13b1be8328172
-1	508	1714922162539322644	/home/aaron/Source/Qt/learning/chapter01_intro/samp1_1/build/Desktop_Qt_6_7_0-Debug/samp1_1_autogen/timestamp	b7f13b1be8328172
-1	508	1714922162539322644	/home/aaron/Source/Qt/learning/chapter01_intro/samp1_1/build/Desktop_Qt_6_7_0-Debug/samp1_1_autogen/mocs_compilation.cpp	b7f13b1be8328172
-509	3276	1714922165315355535	CMakeFiles/samp1_1.dir/widget.cpp.o	29c6ca83e0db6255
-509	3514	1714922165551358332	CMakeFiles/samp1_1.dir/main.cpp.o	a28dfcd074381164
-508	3719	1714922165759360797	CMakeFiles/samp1_1.dir/samp1_1_autogen/mocs_compilation.cpp.o	184c968db482c614
-3719	4169	1714922166203366058	samp1_1	f41878312a7871a
