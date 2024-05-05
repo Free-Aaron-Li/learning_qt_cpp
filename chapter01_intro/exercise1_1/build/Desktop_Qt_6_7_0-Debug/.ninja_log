@@ -1,0 +1,15 @@
+# ninja log v5
+1	274	1714923414264803582	exercise1_1_autogen/timestamp	28f629724786822c
+1	274	1714923414264803582	exercise1_1_autogen/mocs_compilation.cpp	28f629724786822c
+1	274	1714923414264803582	/home/aaron/Source/Qt/learning/chapter01_intro/exercise1_1/build/Desktop_Qt_6_7_0-Debug/exercise1_1_autogen/timestamp	28f629724786822c
+1	274	1714923414264803582	/home/aaron/Source/Qt/learning/chapter01_intro/exercise1_1/build/Desktop_Qt_6_7_0-Debug/exercise1_1_autogen/mocs_compilation.cpp	28f629724786822c
+274	1736	1714923415728828455	CMakeFiles/exercise1_1.dir/exercise1_1_autogen/mocs_compilation.cpp.o	f2c51554ae7419b2
+274	1761	1714923415748828796	CMakeFiles/exercise1_1.dir/widget.cpp.o	8b8713bb1db8155a
+274	1787	1714923415780829339	CMakeFiles/exercise1_1.dir/main.cpp.o	47c49ff35515993
+1787	2091	1714923416076834366	exercise1_1	40eaf91cae11cfc1
+3	19	1714923462513615366	exercise1_1_autogen/timestamp	28f629724786822c
+3	19	1714923462513615366	exercise1_1_autogen/mocs_compilation.cpp	28f629724786822c
+3	19	1714923462513615366	/home/aaron/Source/Qt/learning/chapter01_intro/exercise1_1/build/Desktop_Qt_6_7_0-Debug/exercise1_1_autogen/timestamp	28f629724786822c
+3	19	1714923462513615366	/home/aaron/Source/Qt/learning/chapter01_intro/exercise1_1/build/Desktop_Qt_6_7_0-Debug/exercise1_1_autogen/mocs_compilation.cpp	28f629724786822c
+20	1359	1714923463849637618	CMakeFiles/exercise1_1.dir/widget.cpp.o	8b8713bb1db8155a
+1359	1711	1714923464197643412	exercise1_1	40eaf91cae11cfc1
