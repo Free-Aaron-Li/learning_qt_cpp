@@ -1,9 +1,9 @@
 # IDEA
-*/.idea/
-*/cmake-build*/
+.idea/
+cmake-build*/
 
 # QT Creter
-*/build/
+build/
 
 # Prerequisites
 *.d
