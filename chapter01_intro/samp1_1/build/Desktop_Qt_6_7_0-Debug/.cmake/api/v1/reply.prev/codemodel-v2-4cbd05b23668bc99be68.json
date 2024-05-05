@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f131cebd10f5a1fe57df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "samp1_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "samp1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samp1_1-Debug-2a6162050f467f96f4c3.json",
+					"name" : "samp1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samp1_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samp1_1_autogen-Debug-1b3dd2ea4c8030a33590.json",
+					"name" : "samp1_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samp1_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samp1_1_autogen_timestamp_deps-Debug-90fc07ba716d7eab233f.json",
+					"name" : "samp1_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/aaron/Source/Qt/learning/chapter01_intro/samp1_1/build/Desktop_Qt_6_7_0-Debug",
+		"source" : "/home/aaron/Source/Qt/learning/chapter01_intro/samp1_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
